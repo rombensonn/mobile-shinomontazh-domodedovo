@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 $siteName = 'Мобильный шиномонтаж Москва и МО';
-$siteUrl = 'https://example.com';
+$siteUrl = 'https://rombensonn.github.io/mobile-shinomontazh-domodedovo';
 $sitePhone = '+7 (926) 023-73-44';
 $sitePhoneHref = '+79260237344';
 $siteAddress = 'Станционная ул., 3, Домодедово, Московская область';

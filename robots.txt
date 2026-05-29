@@ -3,4 +3,4 @@ Allow: /
 Disallow: /data/
 Disallow: /send.php
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://rombensonn.github.io/mobile-shinomontazh-domodedovo/sitemap.xml
